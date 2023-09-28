@@ -20,7 +20,3 @@ There are four main ways of movement in the game. The player may run horisontall
 - Some of the art assets are made by Cathrine Trøen which have been of great help on this project
 - The player sprites are originally taken from https://opengameart.org/node/83718. Some animations have been added and modified to fit the game. Svetlana Kushnariova (lana-chan@yandex.ru) and Jordan Irwin are the creators of this art
 - The tilemap can be credited dancramp on OpenGameArt. The map has not been modified other than the addition of a couple new tiles. Link to the license: https://opengameart.org/content/tiny-platform-quest-sprites
-
-# Link to video
-
-https://youtu.be/vywSihJ5eaY
